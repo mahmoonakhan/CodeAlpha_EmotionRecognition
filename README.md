@@ -94,13 +94,6 @@ Dense(3) → Softmax
 
 ---
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-
----
-
 ## Usage
 from tensorflow.keras.models import load_model
 import joblib
@@ -130,4 +123,17 @@ print(f"Predicted emotion: {emotion}")
 Mahmoona Khan
 CodeAlpha ML Intern
 LinkedIn: https://www.linkedin.com/in/dataanalyst-mahmoona/
+
+
+## Acknowledgments
+Dataset: RAVDESS Emotional Speech Audio
+Internship: @CodeAlpha
+
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+
+---
 
