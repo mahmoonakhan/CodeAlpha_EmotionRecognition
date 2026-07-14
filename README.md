@@ -99,6 +99,8 @@ Dense(3) → Softmax
 ```bash
 pip install -r requirements.txt
 
+---
+
 ## Usage
 from tensorflow.keras.models import load_model
 import joblib
